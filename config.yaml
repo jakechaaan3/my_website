@@ -1,6 +1,6 @@
 baseURL: https://jake-chengjiang-cao.netlify.app/
 languageCode: en-us
-title: Portfolio website for Kostis 
+title: Portfolio website for Jake 
 theme: forty
 googleAnalytics: ''
 disqusShortname: ''
@@ -81,14 +81,14 @@ params:
   tiles:
     enable: yes
     showcase:
-      - image: pic01.jpg
-        subtitle: Ipsum Dolor Sit Amet
-        title: Aliquam
+      - image: lbs.jpg
+        subtitle: Something about me
+        title: About me
         url: blogs/aliquam
       - image: pic02.jpg
         subtitle: Feugiat Amet Tempus
-        title: Tempus
-        url: blogs/tempus
+        title: Risk return of DJIA
+        url: blogs/risk_return
       - image: pic03.jpg
         subtitle: Lorem Etiam Nullam
         title: Magna
