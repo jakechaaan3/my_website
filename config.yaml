@@ -76,8 +76,8 @@ params:
       #- name: Elements
        # url: elements.html
     menu: Menu
-    subtitle: By HTML5 Up
-    title: Forty
+    subtitle: ""
+    title: JAKE
   tiles:
     enable: yes
     showcase:
@@ -110,6 +110,6 @@ params:
     enable: yes
     subtitle: "My favorite part of travel is that i get to explore what local people are drinking
     during their everyday lives. And of course when it comes to drinks, who could possibly refuse
-    a bottle of chill beer on a hot summer day and a warm mulled hot wine on a cold winter day? I know I couldn't."
+    a bottle of chill beer on a hot summer day and a warm mulled wine on a cold winter day? I know I couldn't."
     title: Shall we grab a drink?
     url: blogs
