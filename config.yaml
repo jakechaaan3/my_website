@@ -84,11 +84,11 @@ params:
       - image: lbs.jpg
         subtitle: Something about me
         title: About me
-        url: blogs/aliquam
+        url: blogs/me
       - image: stock.jpg
-        subtitle: Somthing about stocks
-        title: Risk return of DJIA
-        url: blogs/risk_return
+        subtitle: Somthing about R
+        title: Jake's Work
+        url: blogs/hw2_jake
       - image: ausflag.jpg
         subtitle: How are you going
         title: Australia
@@ -108,11 +108,8 @@ params:
   two:
     buttonText: Get Started
     enable: yes
-    subtitle: "Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero.
-      \r\n    Mauris aliquet magna magna sed nunc rhoncus pharetra. \r\n    Pellentesque
-      condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia
-      pellentesque lorem ipsum dolor. \r\n    Nullam et orci eu lorem consequat tincidunt.
-      Vivamus et sagittis libero.\r\n    Mauris aliquet magna magna sed nunc rhoncus
-      amet pharetra et feugiat tempus."
-    title: Massa libero
+    subtitle: "My favorite part of travel is that i get to explore what local people are drinking
+    during their everyday lives. And of course when it comes to drinks, who could possibly refuse
+    a bottle of chill beer on a hot summer day and a warm mulled hot wine on a cold winter day? I know I couldn't."
+    title: Shall we grab a drink?
     url: blogs
