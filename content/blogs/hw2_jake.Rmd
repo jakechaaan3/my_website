@@ -1,13 +1,15 @@
 ---
-slug: hw2_jake
-output:
-  html_document:
-    theme: flatly
-    highlight: zenburn
-    number_sections: yes
-    toc: yes
-    toc_float: yes
-    code_folding: show
+categories:  
+- "" 
+- ""
+date: "2021-09-30"
+description: Jake's work # the title that will show up once someone gets to this page
+draft: false
+image: spices.jpg # save picture in \static\img\blogs. Acceptable formats= jpg, jpeg, or png . Your iPhone pics wont work
+
+keywords: ""
+slug: hw2_jake # slug is the shorthand URL address... no spaces plz
+title: Jake's work about R
 ---
 
 

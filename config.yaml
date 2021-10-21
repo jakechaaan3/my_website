@@ -17,7 +17,7 @@ params:
       - city: London, ST 12345
         country: UK
         street: Baker St
-        title: LBS
+        title: Address
     buttonClear: Clear
     buttonSend: Send message
     email:
@@ -63,7 +63,7 @@ params:
     button1:
       - name: Get Started
         url: blogs
-    button2:
+    button2:  
       - name: Log In
         url: '#'
     links:
