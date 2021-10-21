@@ -3,13 +3,11 @@ categories:
 - ""
 - ""
 date: "2017-10-31T22:26:13-05:00"
-description: Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna
-  sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa
-  sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem
-  consequat tincidunt. Vivamus et sagittis tempus.
+description: ""
 draft: false
-image: pic08.jpg
+image: pickl.jpg
 keywords: ""
-slug: tempus
-title: Tempus
+slug: malaysia
+title: Malaysia
 ---
+I started my undergrad in Kuala Lumpur, Malaysia. Similar to Singapore, the country is culturally diverse and is summer all year round. My best memory were the days when I traveled to under-developed islands with minimum budgets. 

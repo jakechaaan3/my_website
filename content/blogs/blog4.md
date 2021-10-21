@@ -3,13 +3,11 @@ categories:
 - ""
 - ""
 date: "2017-10-31T22:42:51-05:00"
-description: Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna
-  sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa
-  sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem
-  consequat tincidunt. Vivamus et sagittis tempus.
+description: ""
 draft: false
-image: pic07.jpg
+image: picld.jpg
 keywords: ""
-slug: aliquam
-title: Aliquam
+slug: uk
+title: UK
 ---
+I came to London, UK this August during the pandemic for my master's study. Not surprisingly, food here is ... different. One good place for drinks I discovered recently is a bar near Bridge Tower, where they serve a special craft beer resembling ice lemon tea. It was fantasic! 
